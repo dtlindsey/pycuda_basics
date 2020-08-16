@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870a1698-75d3-4fb0-9b5b-cfb81ef0357b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cuda.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dl_cuda/demo_struct.py" beforeDir="false" afterPath="$PROJECT_DIR$/dl_cuda/demo_struct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dl_cuda/vector_sum1.py" beforeDir="false" afterPath="$PROJECT_DIR$/dl_cuda/vector_sum1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,7 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597556308461</updated>
       <workItem from="1597556309976" duration="183000" />
-      <workItem from="1597557056057" duration="90000" />
+      <workItem from="1597557056057" duration="641000" />
     </task>
     <servers />
   </component>
@@ -47,9 +45,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="804" y="310" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1597556414396" />
-    <state x="541" y="202" key="SettingsEditor" timestamp="1597557143630">
+    <state x="541" y="202" key="SettingsEditor" timestamp="1597557701337">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="541" y="202" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1597557143630" />
+    <state x="541" y="202" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1597557701337" />
   </component>
 </project>
